@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Controller
-@Slf4j //로깅을 위한 어노테이션
+@Slf4j //로깅을 위한 어노테이션 rkskekfkak
 public class ArticleController {
     @Autowired//스프링 부트가 미리 생성해 놓은 객체를 가져다가 연결해줘서 객체 생성 안해도 됨
     private ArticleRepository articleRepository;
